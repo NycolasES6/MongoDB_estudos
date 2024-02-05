@@ -1,0 +1,1 @@
+> Caso usemos o `use database` sem
