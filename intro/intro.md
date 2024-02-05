@@ -1,8 +1,11 @@
-## `show databases`
+### `show databases`
 Mostra todas os **bancos de dados**.
+<hr>
 
-## `cls`
+### `cls`
 Limpa a tela.
+<hr>
 
-## `use db_pizzaria`
+### `use db_pizzaria`
 Vai usar a colecao de nome `db_pizzaria`.
+<hr>
