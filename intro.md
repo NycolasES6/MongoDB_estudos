@@ -1,11 +1,18 @@
+# Intro
+
+## Introducao
+
 ### `show databases`
+
 Mostra todas os **bancos de dados**.
-<hr>
+</hr>
 
 ### `cls`
+
 Limpa a tela.
-<hr>
+</hr>
 
 ### `use db_pizzaria`
+
 Vai usar a colecao de nome `db_pizzaria`.
-<hr>
+</hr>
