@@ -29,4 +29,3 @@ Retorna os documento que contenham `nome:"Eryck Cardoso"`
 ### `db.aluno.find({nome:{$ne:null}})`
 
 Retorna todos os documentos que tiverem o `nome` diferente de `null`
-
